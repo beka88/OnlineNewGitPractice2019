@@ -4,8 +4,6 @@ BMW 3
 Toyota Highlander
 Bentley
 Mercedes S500
-<<<<<<< HEAD
-Lincoln MKS
-=======
 Lexus GX470
 >>>>>>> f93002e6b7bf94accade837e08f7a068458cfdae
+Subaru WRX STI
