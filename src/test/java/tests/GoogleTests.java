@@ -10,7 +10,10 @@ public class GoogleTests {
         System.out.println("Meow");
         System.out.println("Guff");
         System.out.println(" Changes from remote");
-        System.out.println(" Another changes from remote");
+        System.out.println("Another changes from remote");
+        System.out.println("Changes from local");
+
+
 
 
 
