@@ -13,8 +13,7 @@ public class GoogleTests {
         System.out.println("Another changes from remote");
         System.out.println("Changes from local");
         System.out.println("Another Changes from local");
-        System.out.println("Next Changes from local");
-
+        System.out.println("Another Changes from remote");
 
 
 
