@@ -2,7 +2,7 @@ package tests;
 
 public class GoogleTests {
     public static void main(String[] args) {
-        
+
         //this is a comment
         System.out.println("I am here");
         System.out.println("I am where");
@@ -15,13 +15,9 @@ public class GoogleTests {
         System.out.println("Another Changes from local");
         System.out.println("Another Changes from remote");
         System.out.println("This is from Local");
-
-
-
-
+        System.out.println("This is from local2");
 
 
         System.out.println("Hello");
-
     }
 }
